@@ -86,6 +86,8 @@ Chill. Have a nice day!
 ## Usage
 
 It check misspelled word in your text and suggest you the possible candidate for that word.
+
+**User Interface**
 ![alt text](https://i.ibb.co/x1RdqP0/Screenshot-from-2019-10-20-12-16-25.png)
 
 Visit [this website](https://ridi-sc.herokuapp.com/) & have a try.
