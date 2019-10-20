@@ -6,6 +6,10 @@ A simple spellchecker tool using TextBlob
 
 To run this project on your [localhost](http://127.0.0.1) you need to follow these steps sequentially & run every command on <em>Terminal or Command Prompt</em>.
 
+> Download
+
+To download this project, either make a pull request or click [here](https://github.com/nasimuzzaman-nasim/SpellChecker/archive/master.zip) to download zip file of this project. Now unzip it using proper software like <em>winrar</em>.
+
 
 > Install these package locally.
 
@@ -48,7 +52,7 @@ source venv/bin/activate
 
 
 
-> Now use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dependency mention in below.
+Now use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dependency mention in below.
 
 
 ```bash
