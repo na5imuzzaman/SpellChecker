@@ -65,6 +65,15 @@ python3 -m textblob.download_corpora
 
 Hope everything goes well for you & You are all set to run this project on your machine by one command.
 
+For Windows
+
+```bash
+py manage.py runserver
+```
+
+
+For Linux
+
 ```bash
 python3 manage.py runserver
 ```
