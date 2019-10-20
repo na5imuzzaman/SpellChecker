@@ -1,0 +1,16 @@
+{#{% extends 'base.html' %}#}
+{% load static %}
+
+{% if queryset  %}
+    <p class="font-weight-bold">Possible candidates for misspelled word:</p>
+{% else %}
+    <p class="font-weight-bold">Great! All word seems correct.</p>
+{% endif %}
+
+
+{% for qs, qa in queryset.items %}
+    {{ qs }} : {% for q in qa %} {{ q }}, {% endfor %} <br>
+{% endfor %}
+
+
+
