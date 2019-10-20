@@ -11,7 +11,7 @@ To run this project on your [localhost](http://127.0.0.1) you need to follow the
 
 To install python3, visit [this  website](https://www.python.org/downloads/).
 
-After installing python3, open <em>Terminal or Command Prompt</em> & Install pip & virtual enviroment
+After installing python3, open <em>Terminal or Command Prompt</em> & Install pip & virtual environment
 
 <u>For Windows</u>
 
@@ -28,7 +28,7 @@ python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade virtualenv
 ```
 
-> From now on, We will work in the project folder.
+> From now on, You will work in the project folder.
 
 Now open up Terminal or Command Prompt on this project where <em>manage.py</em> file belongs and <em>create & activate</em> a virtual environment at that directory using the following command & don’t close Terminal or Command Prompt.
 
@@ -44,7 +44,7 @@ py -m venv venv
 ```bash
 python3 -m venv venv
 source venv/bin/activate
- ```
+```
 
 
 
@@ -59,7 +59,7 @@ pip install textblob==0.15.3
 python3 -m textblob.download_corpora
 ```
 
-Hope everything goes well & We are all set to run this project by one command.
+Hope everything goes well for you & You are all set to run this project on your machine by one command.
 
 ```bash
 python3 manage.py runserver
