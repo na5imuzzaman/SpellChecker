@@ -78,9 +78,15 @@ For Linux
 python3 manage.py runserver
 ```
 
-Visit [localhost](http://127.0.0.1) to see the project live. 
+Visit [localhost](http://127.0.0.1) to see the project live. Chill!
 
-Chill. Have a nice day!
+
+
+
+
+**If you have any issue with running this project, Feel free to knock me at [Facebook](https://www.messenger.com/t/md.na5imuzzaman)**
+
+Have a nice day!
 
 
 ## Usage
