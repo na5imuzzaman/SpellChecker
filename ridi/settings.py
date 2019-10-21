@@ -1,4 +1,4 @@
-import django_heroku
+
 """
 Django settings for ridi project.
 
@@ -128,5 +128,4 @@ STATICFILES_DIRS = [
 STATIC_ROOT = os.path.join(BASE_DIR, 'assets')
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
-django_heroku.settings(locals())
 

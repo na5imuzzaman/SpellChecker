@@ -20,8 +20,8 @@ After installing python3, open <em>Terminal or Command Prompt</em> & Install pip
 <u>For Windows</u>
 
 ```bash
-py -m pip install --upgrade pip
-py -m pip install --upgrade virtualenv
+python -m pip install --upgrade pip
+python -m pip install --upgrade virtualenv
 
 ```
 
@@ -39,7 +39,7 @@ Now open up Terminal or Command Prompt on this project where <em>manage.py</em> 
 <u>For Windows</u>
 
 ```bash
-py -m venv venv
+python -m venv venv
 .\venv\Scripts\activate
 ```
 
@@ -68,7 +68,7 @@ Hope everything goes well for you & You are all set to run this project on your 
 For Windows
 
 ```bash
-py manage.py runserver
+python manage.py runserver
 ```
 
 
@@ -91,7 +91,7 @@ Have a nice day!
 
 ## Usage
 
-It check misspelled word in your text and suggest you the possible candidate for that word.
+*It check misspelled word in your text and suggest you the possible candidate for that word.
 
 **User Interface**
 ![alt text](https://i.ibb.co/x1RdqP0/Screenshot-from-2019-10-20-12-16-25.png)
